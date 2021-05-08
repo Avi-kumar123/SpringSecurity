@@ -1,3 +1,5 @@
 com\config\WebConfig.class
+com\config\SecurityInitalizer.class
 com\config\WepAppInitailizer.class
 com\controller\HomeController.class
+com\config\SecurityConfig.class
